@@ -1,0 +1,1 @@
+prescriptions = db["prescriptions"]
